@@ -1,4 +1,4 @@
-﻿# Linear-Regression
+﻿### Linear-Regression
 
-# This model has an accuracy of 70% with the original dataset
-# The file for that data set was to big so I couldn't upload the whole thing to github but here is the link: https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies
+### This model has an accuracy of 70% with the original dataset
+### The file for that data set was to big so I couldn't upload the whole thing to github but here is the link: https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies
